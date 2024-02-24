@@ -1,0 +1,10 @@
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\bin\Debug\TestPositionMouseClick.exe.config
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\bin\Debug\TestPositionMouseClick.exe
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\bin\Debug\TestPositionMouseClick.pdb
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\obj\Debug\TestPositionMouseClick.csproj.AssemblyReference.cache
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\obj\Debug\TestPositionMouseClick.Form1.resources
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\obj\Debug\TestPositionMouseClick.Properties.Resources.resources
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\obj\Debug\TestPositionMouseClick.csproj.GenerateResource.cache
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\obj\Debug\TestPositionMouseClick.csproj.CoreCompileInputs.cache
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\obj\Debug\TestPositionMouseClick.exe
+E:\MEVNSW\2_SourceCode\MondayTEST\CSharpTest\TestPositionMouseClick\TestPositionMouseClick\obj\Debug\TestPositionMouseClick.pdb
